@@ -5,3 +5,4 @@ You may use and share this file with credit to the author.
 Do not modify, sell, or claim it as your own.
 License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
 SystemInfo by: TTRPaxel
+Run SystemInfo in administraotr. Some of the commands might not work in normal mode.
